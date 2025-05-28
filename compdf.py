@@ -54,7 +54,7 @@ with col2:
     st.image("logo.png", width=250)
 
 st.markdown(
-    "<h1 style='color: #19277f; text-align: center;'>Muelles y frenos Simon Bolívar</h1>",
+    "<h1 style='color: #19277f; text-align: center;'>Muelles y Frenos Simon Bolívar</h1>",
     unsafe_allow_html=True
 )
 
